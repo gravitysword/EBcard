@@ -11,6 +11,6 @@ Only bilibili now.
 
 
 ## What mediu platforms it will include?
-1.weibo 2.toutiao 3.douyin 4.zhihu 5.
+1.weibo 2.toutiao 3.douyin 4.zhihu 
 
 
